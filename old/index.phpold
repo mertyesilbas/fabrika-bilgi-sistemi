@@ -1,0 +1,37 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title> anasayfa </title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+</head>
+<body>
+<div id="social">
+    <font> KPC TEKSTİL | <span> Tekstilde teknoloji devri... </span> </font>
+    <i class="fas fa-search"></i>
+    <i class="fab fa-facebook-f"></i>
+    <i class="fab fa-instagram"></i>
+    <i class="fab fa-twitter"></i>
+    <i class="fab fa-google"></i>
+</div>
+<div id="container">
+    <header>
+        <img id="headerResim" src="img/KPC1.jpg" alt="">
+        <div id="centered"> KPC TEKSTIL </div>
+    </header>
+    <section>
+        <nav>
+            <ul>
+                <li><a href="index.php"><i class="fas fa-home"></i> Anasayfa </a> </li>
+                <li><a href="elile.php"><i class="fas fa-plus-circle"></i> El ile ekleme </a> </li>
+                <li><a href="soneklenenler.php"><i class="fas fa-history"></i> Son eklenenler </a> </li>
+                <li><a href="index.php"><i class="fas fa-envelope"></i> İletişim </a> </li>
+
+            </ul>
+        </nav>
+        <main> İçerikler gelecek </main>
+</div>
+</body>
+</html>
