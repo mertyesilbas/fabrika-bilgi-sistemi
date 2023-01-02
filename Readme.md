@@ -28,5 +28,5 @@
    
    >Çalışan paneli ise hangi üründen ne kadar üretilmesi gerektiğinin göründüğü ve üretilen ürünlerin sisteme tamamlandı olarak girildiği bir sayfaan oluşmaktadır.
    
-# SQL Dosyassı
+# SQL Dosyası
 [Veritabanı Dosyası Linki](https://drive.google.com/file/d/1tBBeHAeoE8uMwGl63RUUfhtR-iskDMlF/view?usp=sharing)
