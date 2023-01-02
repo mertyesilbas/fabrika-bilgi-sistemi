@@ -27,3 +27,6 @@
    >Yönetici paneli hangi üründen ne kadar üretileceğini seçmek için bir sayfa ve fabrikanın durumuyla alakalı istatistiksel verileri içeren iki farklı sayfadan oluşur.
    
    >Çalışan paneli ise hangi üründen ne kadar üretilmesi gerektiğinin göründüğü ve üretilen ürünlerin sisteme tamamlandı olarak girildiği bir sayfaan oluşmaktadır.
+   
+# SQL Dosyassı
+[Veritabanı Dosyası Linki](https://drive.google.com/file/d/1tBBeHAeoE8uMwGl63RUUfhtR-iskDMlF/view?usp=sharing)
